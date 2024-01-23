@@ -1,0 +1,16 @@
+﻿<xapCache source="D:\Projekty praca inz\Programy\Note\Note\Bin\Debug\Note_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014-01-21 22:32:03">
+  <file source="D:\Projekty praca inz\Programy\Note\Note\obj\Debug\Note.dll" archivePath="Note.dll" lastWriteTime="2014-01-21 22:32:02" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Images\add.png" archivePath="Images\add.png" lastWriteTime="2014-01-18 17:23:17" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Images\delete.png" archivePath="Images\delete.png" lastWriteTime="2014-01-18 17:23:17" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Images\edit.png" archivePath="Images\edit.png" lastWriteTime="2014-01-18 17:23:17" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Images\save.png" archivePath="Images\save.png" lastWriteTime="2014-01-18 19:00:49" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014-01-18 15:13:02" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014-01-18 15:12:54" />
+  <file source="D:\Projekty praca inz\Programy\Note\Note\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014-01-21 20:51:33" />
+</xapCache>
